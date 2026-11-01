@@ -1,12 +1,12 @@
-# Stephan Bester Honours Project Repository
+# Stephan Bester Honours Project Repository 2026
+
+## Repository Description
+
+This repository contains all the code (bash scripts), manually created .bed files and tool calls that were used over the course of a BSc Honours project for Stephan Bester (27007030) at Stellenbosch University in 2026.
 
 ## Project Title
 
 Partners in crime: Guiding microbial isolation of *Megasphaera* sp. by using comparative genomics to infer potential cross-feeding relationships with a bacterium from the *Pseudomonas* group
-
-## Repository Description
-
-This repository contains all the code (bash scripts) and tool calls that were used over the course of a BSc Honours project for Stephan Bester (27007030) at Stellenbosch University.
 
 ## Repository Contents
 
