@@ -14,19 +14,19 @@ Partners in crime: Guiding microbial isolation of *Megasphaera* sp. by using com
 
 | **File name**                  | **Brief Description**                                      |
 |:------------------------------:|:----------------------------------------------------------:|
-| tool_execution_log.docx        | Sequential record of all the tools utilized                |
+| tool_execution_log.pdf         | Sequential record of all the tools utilized                |
 | improve_assemblies_pipeline.sh | Pipeline used to iteratively improve draft genomes         |
 | checkm2_on_pipeline.sh         | Pipeline used to compare assemblies via CheckM2            |
 | m_hutch_scaffolds.bed          | A genome coordinate file for the *M hutchinsoni* reference |
 | README.md                      | This file                                                  |
 
-### tool_execution_log.docx 
+### tool_execution_log.pdf 
 
 Minimal coding and scripts were used in this project as often the tool outputs needed to be taken into consideration for future steps. This file is the record of all the tool calls that were used in the course of the project. **This serves as a detailed description of the methods used in the project**. 
 
 ### improve_assemblies_pipeline.sh
 
-The script that was used to implement the pipeline to iteratively improve the draft genomes for a specified number of times by remapping unused reads to the most recent assemblies and reassembling the draft genomes with newly mapped reads. The details on how this was implemented can be found annotated in both this file and in the "tool_execution_log.docx" file.
+The script that was used to implement the pipeline to iteratively improve the draft genomes for a specified number of times by remapping unused reads to the most recent assemblies and reassembling the draft genomes with newly mapped reads. The details on how this was implemented can be found annotated in both this file and in the "tool_execution_log.pdf" file.
 
 ### checkm2_on_pipeline.sh
 
